@@ -1,6 +1,6 @@
 - 😀 Olá, sou Frederico Dietrich, mais conhecido somente por Fred;
 - 😬 Estudo Análise e Desenvolvimento de Sistemas na UNISC;
-- 🤓 Estudo Javascript (Node.js) de forma autônoma;
+- 🤓 Autodidata (no caminho) Javascript (Node.js) e Python;
 - 🧐 Estou começando os estudos em Java (Spring e seus frameworks, focando em web);
 
 
